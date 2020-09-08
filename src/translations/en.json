@@ -1,0 +1,34 @@
+{
+  "home": {
+    "welcome_all": "welcome to all",
+    "subtitle": "Lille Gophers, the Haut-de-France source of Go talks!"
+  },
+  "about": {
+    "title": "about",
+    "description": {
+      "0": "Lille Gophers is born from the initiative of two Lillois, passionate about Golang environment.",
+      "1": "With talks, use cases and projects, Lille Gophers want to promote this language and create a Lille's \"Gophers\" community.",
+      "2": "It doesn't matter if you are a novice gopher or a hardened one, you will find your place inside our community.",
+      "3": "Don't be afraid, join us during our next event!"
+    }
+  },
+  "events": {
+    "title": "next events",
+    "scheduled_talks": "Good! {talksNumber} talk{multipleTalks} scheduled 🚀",
+    "no_talk": "No talk currently scheduled 😕",
+    "stay_touch": "Stay in touch!",
+    "give_idea": "Feel free to give us talk ideas 🤗"
+  },
+  "contacts": {
+    "contact_us": "Contact us",
+    "contact_email": "Send us an email"
+  },
+  "on": "on",
+  "in": "in",
+  "footer": {
+    "made_with": "Made with",
+    "photos_credits": "Photos credits",
+    "follow_us": "Follow us",
+    "find_us": "Find us"
+  }
+}
