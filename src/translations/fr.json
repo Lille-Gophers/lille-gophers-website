@@ -1,0 +1,34 @@
+{
+  "home": {
+    "welcome_all": "bienvenu à tout les",
+    "subtitle": "Lille Gophers, votre source de talks concernant Go dans les Haut-de-France !"
+  },
+  "about": {
+    "title": "à propos",
+    "description": {
+      "0": "Lille Gophers est née de l'initiative de deux lillois passionnés par l'environnement technique du Golang.",
+      "1": "À travers des talks technique et des cas d'usage, Lille Gophers souhaite promouvoir ce language et construire une communauté Lilloise de Gophers.",
+      "2": "Que vous soyez un gopher novice ou un gopher aguéri, vous trouverez votre place au sein de notre communauté.",
+      "3": "N'hésitez pas, rejoignez-nous lors de notre prochaine session !"
+    }
+  },
+  "events": {
+    "title": "prochains événements",
+    "scheduled_talks": "Yay! {talksNumber} talk{multipleTalks} programmé{multipleTalks} 🚀",
+    "no_talk": "Aucun talk programmé 😕",
+    "stay_touch": "Restez connecté !",
+    "give_idea": "N'hésitez pas à nous envoyer des idées de talk 🤗"
+  },
+  "contacts": {
+    "contact_us": "Contactez-nous",
+    "contact_email": "Envoyez-nous un mail"
+  },
+  "on": "sur",
+  "in": "à",
+  "footer": {
+    "made_with": "Créé avec",
+    "photos_credits": "Crédits photos",
+    "follow_us": "Suivez-nous",
+    "find_us": "Retrouvez-nous"
+  }
+}
